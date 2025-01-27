@@ -8,7 +8,7 @@
 
 Used following course below to learn and work on Test Driven Development
 
-👉 [My Courses](https://courses.davegray.codes/)
+👉 [Course Followed](https://courses.davegray.codes/)
 
 ---
 
@@ -26,7 +26,7 @@ Followed the Test-Driven Development Method. 1. Write failing test 2. Implement 
 
 ### Challenges
 
-Working with multiple files to create testing. Example having a test file for the Home page but then each component having it's own test folder and test.
+Working with multiple files to create testing. Example having a test file for the Home page but then each component having it's own test folder and test. Hadn't practiced that granular of a level for testing prior.
 
 Also create describes within describes made sense but took a while for me to wrap my brain around it. Finally understood it's a way of basically sectioning off your information to make it less overwhelming.
 

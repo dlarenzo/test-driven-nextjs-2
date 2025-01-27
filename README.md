@@ -6,30 +6,42 @@
 
 ### Author Links
 
-👋 Hello, I'm Dave Gray.
+Used following course below to learn and work on Test Driven Development
 
 👉 [My Courses](https://courses.davegray.codes/)
 
-✅ [Check out my YouTube Channel with hundreds of tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+---
 
-🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
+### Features
 
-☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
+Implementation of Jest for Testing vs Using Vitest
 
-🚀 Follow Me:
+---
 
-- [Twitter](https://twitter.com/yesdavidgray)
-- [LinkedIn](https://www.linkedin.com/in/davidagray/)
-- [Blog](https://yesdavidgray.com)
-- [Reddit](https://www.reddit.com/user/DaveOnEleven)
+### TDD Practices Applied
+
+Followed the Test-Driven Development Method. 1. Write failing test 2. Implement code to make test success 3. Refactor
+
+---
+
+### Challenges
+
+Working with multiple files to create testing. Example having a test file for the Home page but then each component having it's own test folder and test.
+
+Also create describes within describes made sense but took a while for me to wrap my brain around it. Finally understood it's a way of basically sectioning off your information to make it less overwhelming.
+
+Still the hardest part of the whole this was the render vs behavior and still working on a better understanding of this. Getting all the rendered test completed before we complete the other tests for the behavior. That was the most challenging part of this whole thing for me.
+
+I am going through the testing library more as there are sooooo many features that could be added for testing and wanting to wrap my head around a few more of them.
 
 ---
 
 ### Description
 
-📺 [YouTube Video](https://youtu.be/XTNqyEBPAFw) for this repository.
+Todo List App where each part is tested within the project using jest and testing libraries
 
 ### 📚 References
+
 - 🔗 [Next.js Official Site](https://nextjs.org/)
 - 🔗 [TypeScript Official Site](https://www.typescriptlang.org/)
 - 🔗 [Jest Official Site](https://jestjs.io/)
@@ -38,6 +50,7 @@
 ---
 
 ### ⚙ Free Web Dev Tools
+
 - 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
 - 🔗 [ES7 React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
@@ -45,5 +58,7 @@
 ---
 
 ### 🎓 Academic Honesty
+
+I reviewed and followed along with video from starter file to finish and follow project
 
 **DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).# test-driven-nextjs-2
